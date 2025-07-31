@@ -6,3 +6,10 @@
 body {
   background-color: rgb(26, 26, 26); /*cor do fundo*/
 }
+
+.lista{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30px;
+}
+
