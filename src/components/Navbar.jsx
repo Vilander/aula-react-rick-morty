@@ -13,11 +13,6 @@ function Menu() {
                             <a href="/" className="nav-link">Home</a>
                         </li>
                         <li className="nav-item">
-                            <a href="/calculadora-centimetros" className="nav-link">Calculadora Metros X cm</a>
-                        </li>
-                        <li className="nav-item">
-                            <a href="/calculadora-metros" className="nav-link">Calculadora cm X Metros</a>
-                        </li><li className="nav-item">
                             <a href="/sobre" className="nav-link">Sobre</a>
                         </li>
                     </ul>
